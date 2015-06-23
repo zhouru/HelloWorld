@@ -5,9 +5,9 @@ sap.ui.controller("helloworld_git_ui5.Main", {
 * Can be used to modify the View before it is displayed, to bind event handlers and do other one-time initialization.
 * @memberOf helloworld_git_ui5.Main
 */
-//	onInit: function() {
-//
-//	},
+	onInit: function() {
+
+	},
 
 /**
 * Similar to onAfterRendering, but this hook is invoked before the controller's View is re-rendered
@@ -31,8 +31,8 @@ sap.ui.controller("helloworld_git_ui5.Main", {
 * Called when the Controller is destroyed. Use this one to free resources and finalize activities.
 * @memberOf helloworld_git_ui5.Main
 */
-//	onExit: function() {
-//
-//	}
+	onExit: function() {
+
+	}
 
 });
